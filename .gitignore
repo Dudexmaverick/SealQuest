@@ -4,3 +4,15 @@
 *.swp
 *.backup
 .vscode/
+
+# Artefatos gerados pelo compilador Swift
+*.swiftmodule
+*.swiftdeps
+*.swiftdoc
+*.swiftsourceinfo
+*.dia
+*.d
+*.o
+*.pcm
+.build/
+.swiftpm/
